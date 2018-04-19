@@ -41,7 +41,7 @@ models towards the increased practical use of ML in medicine and healthcare.
 Important dates:
 --------------------------
 
-* Abstract Submission: May 8, 2018
+* Paper Submission: May 8, 2018
 * Acceptance Notice: Jun 8, 2018
 * Workshop Date: Aug 20, 2018
 
