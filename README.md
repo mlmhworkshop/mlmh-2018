@@ -71,6 +71,10 @@ length of 4 pages, including references.
 The program committee will select the papers based on originality,
 presentation, and technical quality for spotlight and/or poster presentation.
 
+The best selected student paper will be granted with a $1,000 travel grant. Please
+send a note to indicate that you would like to be considered in your
+submission.
+
 ---------------------------------
 Organizers:
 ---------------------------------
