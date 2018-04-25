@@ -72,7 +72,7 @@ The program committee will select the papers based on originality,
 presentation, and technical quality for spotlight and/or poster presentation.
 
 The best selected student paper will be granted with a $1,000 travel grant. Please
-send a note to indicate that you would like to be considered in your
+send a note to mlmhworkshop@googlegroups.com to indicate that you would like to be considered in your
 submission.
 
 ---------------------------------
