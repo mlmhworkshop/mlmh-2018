@@ -8,8 +8,8 @@ body {
   padding-top: 80px;
   max-width: 100%;
   text-align: center;
-  min-height: 250px;
-  max-height: 250px;
+  min-height: 300px;
+  max-height: 3000px;
   background-color: #FFFFFF;
   background-image: url('../packages/circles-light/circles-light.png');
 }
